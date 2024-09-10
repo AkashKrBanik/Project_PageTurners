@@ -2,6 +2,8 @@
 
 PageTurners is an elegant and user-friendly e-bookstore webpage, meticulously crafted using only HTML and CSS. With a minimalist design and intuitive interface, PageTurners offers a seamless browsing experience for book enthusiasts. Dive into a world of literary treasures as you explore diverse genres and discover your next captivating read. From the cover art that beckons, to the crisp layout facilitating easy navigation, PageTurners is a testament to the power of simplicity in delivering a delightful online bookstore experience.
 
+## [PageTurners Website Link](https://red-bush-0be51e210.5.azurestaticapps.net)
+
 ## Screenshots:
 <img src="https://github.com/AkashKrBanik/PageTurners/blob/main/Screenshots/ss_1.png" alt="Login Form" width="800">
 
